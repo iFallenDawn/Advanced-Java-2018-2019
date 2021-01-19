@@ -1,0 +1,11 @@
+_________ is the powerhouse of the cell. (Enter a word) (10)
+Mitochondria
+What is the unit for force? (Enter the plural word) (20)
+Newtons
+How many groups of elements are there on the periodic table? (Enter a number) (30)
+18
+The allele for blue eyes is said to be ______ as you NEED to have two copies of the blue eye allele. (Enter a word) (40)
+recessive
+What is the ideal gas law equation? (Enter the equation with only single letter variables and an equals sign, no spaces) (50)
+PV=NRT
+

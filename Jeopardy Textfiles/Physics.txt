@@ -1,0 +1,11 @@
+What is Newton's second law? (Enter an equation with no spaces, only variables) (10)
+f=ma
+What is the force of gravity on a 40 kg object? Use 10 for g (Enter a number and its unit) (20)
+400N
+What is the speed of light? Be careful counting your zeroes (Express your answer with one significant figure) (30)
+300000000
+What is the value of k in electricity? Be careful counting your zeroes (Express your answer with one significant figure) (40)
+9000000000
+What is the boiling point of water in Fahrenheit? (Enter a three digit number) (50)
+212
+

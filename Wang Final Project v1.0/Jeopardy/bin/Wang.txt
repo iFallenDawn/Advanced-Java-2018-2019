@@ -1,0 +1,10 @@
+What is Wang's first name? (Enter a word) (10)
+Jordan
+What did Wang make as his final Advanced Java project? (Enter one word) (20)
+Jeopardy
+What did Wang make as his final APCS project? (Enter two words) (30)
+Connect Four
+What is Wang's class rank? (Enter a number) (40)
+7
+How many days has Wang been absent since 6th grade? (Enter a number) (50)
+2

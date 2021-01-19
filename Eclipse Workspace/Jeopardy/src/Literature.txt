@@ -1,0 +1,10 @@
+What is the last name of the author who wrote "Romeo and Juliet?" (Enter one word) (10)
+Shakespeare
+What is the last name of the author who wrote "The Great Gatsby?" (Enter one word) (20)
+Fitzgerald
+What well-known novella by Stephen King about a prison was adapted into a movie? (Enter 6 words) (30)
+Rita Hayworth and the Shawshank Redemption
+What is the name of the novella in which Joseph Conrad takes a voyage up the Congo River? (Enter three words) (40)
+Heart of Darkness
+How many sonnets did Shakespeare write? (Enter a number) (50)
+154

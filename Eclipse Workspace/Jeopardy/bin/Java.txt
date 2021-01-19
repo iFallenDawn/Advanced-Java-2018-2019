@@ -1,0 +1,10 @@
+The APCS exam uses what programming language? (Enter a word) (10)
+Java
+Who created Java? (Enter first name, last name) (20)
+James Gosling
+What year was Java made? (Enter a year) (30)
+1995
+What was Java originally called? (Enter a word) (40)
+Oak
+What is the name of the Java mascot? (Enter a word) (50)
+Duke

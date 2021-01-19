@@ -1,0 +1,10 @@
+What year was D-day? (Enter a year) (10)
+1944
+What year was the Attack on Pearl Harbor? (Enter a year) (20)
+1941
+What year did World War II end? (Enter a year) (30)
+1945
+What year did the United States enter the Vietnam War? (Enter a year) (40)
+1965
+What were the three R's in Franklin D. Roosevelt's New Deal? (Enter each one separated by a space in alphabetical order) (50)
+Recovery Reform Relief
